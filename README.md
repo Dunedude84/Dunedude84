@@ -6,7 +6,7 @@ Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after
 
 **🔍 Open to work · En recherche d'emploi**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dunedude84.github.io/portfolio-3498db?logo=githubpages&logoColor=white)](https://dunedude84.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dunedude84.github.io/PortFolio-3498db?logo=githubpages&logoColor=white)](https://dunedude84.github.io/PortFolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vincent%20Lortie-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lortie-b55986253)
 [![Email](https://img.shields.io/badge/Email-vincelortie%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:vincelortie@gmail.com)
 
@@ -50,7 +50,7 @@ Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌐 **[PortFolio](https://github.com/Dunedude84/portfolio)** | Bilingual FR/EN personal portfolio, vanilla JS i18n, animations — [live demo](https://dunedude84.github.io/portfolio/) | HTML · CSS · JavaScript |
+| 🌐 **[PortFolio](https://github.com/Dunedude84/PortFolio)** | Bilingual FR/EN personal portfolio, vanilla JS i18n, animations — [live demo](https://dunedude84.github.io/PortFolio/) | HTML · CSS · JavaScript |
 | ⏰ **Horaires Pharmacie** | Full pharmacy scheduling app with admin/employee auth — [hey-hi.ca](https://hey-hi.ca) | Node.js · Express · MongoDB |
 | 🏧 **[atm-simulation](https://github.com/Dunedude84/atm-simulation)** | ATM simulation desktop app — full banking domain, capstone project (LEA.9C) | C# · WPF · MVVM · EF Core · SQL Server |
 | 💿 **[API Discogs](https://github.com/Dunedude84/discogs-api)** | Native Android app browsing Discogs vinyl collections | Kotlin · Jetpack Compose · Retrofit · MVVM |
@@ -58,7 +58,7 @@ Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after
 
 ## 📫 Let's connect / Restons en contact
 
-- **Portfolio** : [dunedude84.github.io/portfolio](https://dunedude84.github.io/portfolio/) (FR/EN, CV téléchargeable)
+- **Portfolio** : [dunedude84.github.io/PortFolio](https://dunedude84.github.io/PortFolio/) (FR/EN, CV téléchargeable)
 - **LinkedIn** : [vincent-lortie](https://www.linkedin.com/in/vincent-lortie-b55986253)
 - **Email** : vincelortie@gmail.com
 
