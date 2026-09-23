@@ -52,6 +52,7 @@ Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after
 |---|---|---|
 | 🌐 **[PortFolio](https://github.com/Dunedude84/PortFolio)** | Bilingual FR/EN personal portfolio, vanilla JS i18n, animations — [live demo](https://dunedude84.github.io/PortFolio/) | HTML · CSS · JavaScript |
 | ⏰ **Horaires Pharmacie** | Full pharmacy scheduling app with admin/employee auth — [hey-hi.ca](https://hey-hi.ca) | Node.js · Express · MongoDB |
+| 🏧 **[atm-simulation](https://github.com/Dunedude84/atm-simulation)** | ATM simulation desktop app — full banking domain, capstone project (LEA.9C) | C# · WPF · MVVM · EF Core · SQL Server |
 | 💿 **[API Discogs](https://github.com/Dunedude84/API_Discogs)** | Native Android app browsing Discogs vinyl collections | Kotlin · Jetpack Compose · Retrofit · MVVM |
 | 🪐 **[SolarSystemJava](https://github.com/Dunedude84/SolarSystemJava)** | 3D solar system simulation with realistic textures and orbital mechanics | Java · LWJGL · OpenGL |
 
