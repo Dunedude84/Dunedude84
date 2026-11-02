@@ -72,4 +72,4 @@ Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after
 
 ---
 
-*Français — DevOps & Programmeur-analyste junior à Montréal, diplômé du programme LEA.9C (Collège CDI) après 10+ ans en électricité industrielle. Expérience pratique avec Azure AKS, Terraform, Docker, Kubernetes, CI/CD GitHub Actions, PowerShell et développement full-stack. Actuellement en recherche d'emploi — contactez-moi !*
+*Français — DevOps & Programmeur-analyste junior à Montréal, ayant récemment complété la formation du programme LEA.9C (Collège CDI) après 10+ ans en électricité industrielle. Expérience pratique avec Azure AKS, Terraform, Docker, Kubernetes, CI/CD GitHub Actions, PowerShell et développement full-stack. Actuellement en recherche d'emploi — contactez-moi !*
