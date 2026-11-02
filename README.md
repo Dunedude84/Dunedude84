@@ -1,8 +1,8 @@
 # Hi, I'm Vincent Lortie 👋 · Salut, moi c'est Vincent 👋
 
-**Junior Programmer-Analyst** in Montréal · **Programmeur-Analyste junior** à Montréal
+**Junior DevOps & Programmer-Analyst** in Montréal · **DevOps & Programmeur-Analyste junior** à Montréal
 
-Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after 10+ years as an industrial electrician assembler/wireman. Now turning a lifelong passion for code into a career.
+Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after 10+ years as an industrial electrician assembler/wireman. Now combining my hands-on troubleshooting background with cloud infrastructure, automation, and software development.
 
 **🔍 Open to work · En recherche d'emploi**
 
@@ -14,6 +14,17 @@ Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after
 
 ## 🛠️ Tech Stack
 
+**Cloud, Containers & DevOps**
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes%20(AKS)-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Zero--Trust-F38020?logo=cloudflare&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -24,16 +35,13 @@ Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
-**Web**
+**Web & Databases**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-
-**Data & Cloud**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
@@ -50,8 +58,8 @@ Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after
 
 | Project | Description | Stack |
 |---|---|---|
+| ☁️ **[azure-aks-terraform-hey-hi](https://github.com/Dunedude84/azure-aks-terraform-hey-hi)** | Cloud-Native migration of my 2 web apps ([hey-hi.ca](https://hey-hi.ca) & [biblio.hey-hi.ca](https://biblio.hey-hi.ca)) to **Azure AKS** with **Terraform**, **Docker**, **Cloudflare Zero-Trust Tunnel**, **GitHub Actions CI/CD** & **PowerShell** ops CLI | Azure AKS · Terraform · Docker · Kubernetes · GitHub Actions · PowerShell · Node.js · MongoDB |
 | 🌐 **[PortFolio](https://github.com/Dunedude84/PortFolio)** | Bilingual FR/EN personal portfolio, vanilla JS i18n, animations — [live demo](https://dunedude84.github.io/PortFolio/) | HTML · CSS · JavaScript |
-| ⏰ **Horaires Pharmacie** | Full pharmacy scheduling app with admin/employee auth — [hey-hi.ca](https://hey-hi.ca) | Node.js · Express · MongoDB |
 | 🏧 **[atm-simulation](https://github.com/Dunedude84/atm-simulation)** | ATM simulation desktop app — full banking domain, capstone project (LEA.9C) | C# · WPF · MVVM · EF Core · SQL Server |
 | 💿 **[API Discogs](https://github.com/Dunedude84/discogs-api)** | Native Android app browsing Discogs vinyl collections | Kotlin · Jetpack Compose · Retrofit · MVVM |
 | 🪐 **[SolarSystemJava](https://github.com/Dunedude84/solar-system-java)** | 3D solar system simulation with realistic textures and orbital mechanics | Java · LWJGL · OpenGL |
@@ -64,4 +72,4 @@ Recently completed the Programmer-Analyst program (LEA.9C) at CDI College, after
 
 ---
 
-*Français — Programmeur-analyste junior à Montréal, fraîchement diplômé du programme LEA.9C (Collège CDI) après 10+ ans en électricité industrielle. Compétences en développement front-end, back-end, Android et bases de données. Actuellement en recherche d'emploi — contactez-moi !*
+*Français — DevOps & Programmeur-analyste junior à Montréal, diplômé du programme LEA.9C (Collège CDI) après 10+ ans en électricité industrielle. Expérience pratique avec Azure AKS, Terraform, Docker, Kubernetes, CI/CD GitHub Actions, PowerShell et développement full-stack. Actuellement en recherche d'emploi — contactez-moi !*
